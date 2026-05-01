@@ -1,4 +1,4 @@
-# Car Gallery 🚗
+<img width="1614" height="973" alt="image" src="https://github.com/user-attachments/assets/23229981-41dd-4406-b364-d74f60e25ea9" /># Car Gallery 🚗
 
 A responsive front-end project built using HTML, CSS (Grid & Flexbox), and animations.
 
@@ -13,4 +13,4 @@ A responsive front-end project built using HTML, CSS (Grid & Flexbox), and anima
 ## Tech Used
 - HTML5
 - CSS3
-![Uploading image.png…]()
+![Uploading Cars.png…]()
