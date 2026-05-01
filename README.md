@@ -13,3 +13,4 @@ A responsive front-end project built using HTML, CSS (Grid & Flexbox), and anima
 ## Tech Used
 - HTML5
 - CSS3
+![Uploading image.png…]()
